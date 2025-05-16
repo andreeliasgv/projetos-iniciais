@@ -2,7 +2,7 @@
 # ✖️ Tabuada com Laço `for` em Java
 
 Este programa em Java solicita um número ao usuário
-e imprime a **tabuada de 0 a 10** utilizando o laço de repetição `for`.
+e imprime a tabuada de 0 a 10 utilizando o laço de repetição `for`.
 
 ## 📌 Funcionalidades
 
