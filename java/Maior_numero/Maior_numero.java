@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Maior {
+public class Maior_numero {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
         int s, n, m=0;
